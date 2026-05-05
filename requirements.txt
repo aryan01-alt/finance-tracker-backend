@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 flask
 flask-cors
 flask-sqlalchemy
+=======
+flask
+flask-cors
+flask-sqlalchemy
+>>>>>>> c01035cacadd3ed57d5ae5466e032e89eb7d29d2
 gunicorn
